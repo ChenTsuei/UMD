@@ -1,4 +1,8 @@
-# README
+# UMD
+
+Official implementation of "User Attention-guided Multimodal Dialog Systems"
+
+**The code is under refactoring and the new code will be published soon.**
 
 ## Prerequisite
 
