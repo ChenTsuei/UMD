@@ -1,5 +1,7 @@
 # UMD
 
+**If you have any questions about the code, please feel free to create an issue or contact me by email `chentsuei@gmail.com`.**
+
 Official implementation of "User Attention-guided Multimodal Dialog Systems"
 
 **The code is under refactoring and the new code will be published soon.**
