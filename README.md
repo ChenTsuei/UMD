@@ -6,6 +6,10 @@ Official implementation of "User Attention-guided Multimodal Dialog Systems"
 
 **The code is under refactoring and the new code will be published soon.**
 
+## Data
+
+The crawled images can be downloaded [here](https://icloud.qd.sdu.edu.cn:7777/#/link/5019AA633FE05A348F8C1D2E1A4A7087). Other data provided by MMD can be downloaded [here](https://drive.google.com/drive/folders/1JOGHzideeAsmykMUQD3z7aGFg-M4QlE2?usp=sharing).
+
 ## Prerequisite
 
 - Python 3.5+
