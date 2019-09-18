@@ -20,3 +20,7 @@ The crawled images can be downloaded [here](https://icloud.qd.sdu.edu.cn:7777/#/
 ## How to run
 
 Please place the data files to the appropriate path and set it in `options/dataset_option.py`, then run `python train <task> <saved_model_file>`.
+
+## Evaluation
+
+Perl script [mteval-v14.pl](https://github.com/moses-smt/mosesdecoder/blob/master/scripts/generic/mteval-v14.pl) is used to evaluate the text result. You should first extract the result from the log files. And convert them into XML file. For convenience, the `convert.py` is provided.
