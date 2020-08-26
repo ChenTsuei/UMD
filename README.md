@@ -8,7 +8,7 @@ Official implementation of "User Attention-guided Multimodal Dialog Systems"
 
 ## Data
 
-The crawled images can be downloaded [here](https://icloud.qd.sdu.edu.cn:7777/#/link/5019AA633FE05A348F8C1D2E1A4A7087) (corresponding [url2img.txt](https://drive.google.com/open?id=0B25y9jdRAFLRVzEwUlVHMU9ycHRmTGVwSHRXd0d2MmNjVnpF)). Other data provided by MMD can be downloaded [here](https://drive.google.com/drive/folders/1JOGHzideeAsmykMUQD3z7aGFg-M4QlE2?usp=sharing).
+The crawled images can be downloaded [here](https://icloud.qd.sdu.edu.cn:7777/#/link/5019AA633FE05A348F8C1D2E1A4A7087) (corresponding [url2img.txt](https://drive.google.com/file/d/1zUoHWpJGiNzCoSyKTRkp7dcIN8VSD_yl/view?usp=sharing)). Other data provided by MMD can be downloaded [here](https://drive.google.com/drive/folders/1JOGHzideeAsmykMUQD3z7aGFg-M4QlE2?usp=sharing).
 
 ## Prerequisite
 
